@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Usando o Vagrant"
+date:   2015-07-21 14:30:59
+categories: virtualbox vagrant
+---
+Siga os passos no [tutorial do GoRails][gorails] para instalar o software necessário e criar um box com todos os componentes para rodar um projeto Rails:
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+
+[gorails]:     https://gorails.com/guides/using-vagrant-for-rails-development
